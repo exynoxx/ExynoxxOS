@@ -1,7 +1,5 @@
-ExynoxxOS (x86 kernel)
+ExynoxxOS (x86 hobby kernel)
 ======================
-
-An x86 hobby kernel made for simplicity
 
 Features:
 - Multibooted
