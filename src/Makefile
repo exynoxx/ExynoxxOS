@@ -11,8 +11,8 @@ SOURCES += pmm.o
 SOURCES += vmm.o
 SOURCES += heap.o
 
-CC=/opt/local/bin/i386-elf-gcc
-LD=/opt/local/bin/i386-elf-ld
+CC=~/opt/cross/bin/i686-elf-gcc
+LD=~/opt/cross/bin/i686-elf-ld
 
 
 CFLAGS=-nostdlib -nostdinc -fno-builtin -fno-stack-protector -m32 -I ../include -std=c99 -O
